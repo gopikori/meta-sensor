@@ -2,5 +2,15 @@
     <string name="app_name">MetaSensor</string>
 
     <string name="action_settings">Settings</string>
+    <!-- SensorInfoActivity resources-->
+    <string name="sensorlist_summary_count">&lt;b>%1$d sensors found&lt;/b></string>
+
+    <!-- SensorInfoActivity resources-->
     <string name="title_activity_sensor_info">Sensor Details</string>
+    <string name="sensorinfo_vendor">\n Vendor : </string>
+    <string name="sensorinfo_version">\n Version : </string>
+    <string name="sensorinfo_power">\n Power : </string>
+    <string name="sensorinfo_power_unit">mA</string>
+    <string name="sensorinfo_resolution">\n Resolution : </string>
+
 </resources>
